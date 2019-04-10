@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>AC548635-D79D-4DBC-B33B-462178BABF01</key>
+		<key>4ADD094D-E5F2-4EA4-B3DA-458D80BC0F14</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,9 +15,9 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>AC548635-D79D-4DBC-B33B-462178BABF01.xcactivitylog</string>
+			<string>4ADD094D-E5F2-4EA4-B3DA-458D80BC0F14.xcactivitylog</string>
 			<key>highLevelStatus</key>
-			<string>W</string>
+			<string>E</string>
 			<key>schemeIdentifier-containerName</key>
 			<string>sepm project</string>
 			<key>schemeIdentifier-schemeName</key>
@@ -27,42 +27,13 @@
 			<key>signature</key>
 			<string>Building project sepm with scheme sepm and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>576499836.70951402</real>
+			<real>576597254.27570701</real>
 			<key>timeStoppedRecording</key>
-			<real>576499837.97505903</real>
+			<real>576597356.12493205</real>
 			<key>title</key>
 			<string>Building project sepm with scheme sepm and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>AC548635-D79D-4DBC-B33B-462178BABF01</string>
-		</dict>
-		<key>F9745935-C672-4C97-873A-98BC0928E49C</key>
-		<dict>
-			<key>className</key>
-			<string>IDECommandLineBuildLog</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F9745935-C672-4C97-873A-98BC0928E49C.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>sepm project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>sepm</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Building project sepm with scheme sepm and configuration Debug</string>
-			<key>timeStartedRecording</key>
-			<real>576563020.35706198</real>
-			<key>timeStoppedRecording</key>
-			<real>576563021.98196197</real>
-			<key>title</key>
-			<string>Building project sepm with scheme sepm and configuration Debug</string>
-			<key>uniqueIdentifier</key>
-			<string>F9745935-C672-4C97-873A-98BC0928E49C</string>
+			<string>4ADD094D-E5F2-4EA4-B3DA-458D80BC0F14</string>
 		</dict>
 	</dict>
 </dict>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>3E44D2E4-A0B9-42CB-98F3-C21E0EA09293</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3E44D2E4-A0B9-42CB-98F3-C21E0EA09293.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>sepm project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sepm</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project sepm with scheme sepm and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>576597543.22485399</real>
+			<key>timeStoppedRecording</key>
+			<real>576597545.55897999</real>
+			<key>title</key>
+			<string>Building project sepm with scheme sepm and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>3E44D2E4-A0B9-42CB-98F3-C21E0EA09293</string>
+		</dict>
+		<key>4ADD094D-E5F2-4EA4-B3DA-458D80BC0F14</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4ADD094D-E5F2-4EA4-B3DA-458D80BC0F14.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>sepm project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>sepm</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project sepm with scheme sepm and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>576597254.27570701</real>
+			<key>timeStoppedRecording</key>
+			<real>576597356.12493205</real>
+			<key>title</key>
+			<string>Building project sepm with scheme sepm and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>4ADD094D-E5F2-4EA4-B3DA-458D80BC0F14</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
